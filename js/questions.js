@@ -444,5 +444,445 @@ let questions = [
             "Thunderbolt 3",
             "FireWire 800"
         ]
-    }
+    },
+    {
+        numb: 41,
+        question: "Using an Android phone, you want to scroll down. What do you do to accomplish this?",
+        answer: "Swipe up",  // Single-answer question
+        options: [
+            "Swipe up",
+            "Swipe down",
+            "Pinch fingers together",
+            "Start with pinched fingers and separate them"
+        ]
+    },
+    {
+        numb: 42,
+        question: "For which of the following tasks are gaming consoles not used? (Choose two.)",
+        answer: ["Editing Word documents", "Creating a spreadsheet"],  // Multi-answer question
+        options: [
+            "Playing video games",
+            "Editing Word documents",
+            "Watching a DVD",
+            "Creating a spreadsheet"
+        ]
+    },
+    {
+        numb: 43,
+        question: "Which motion while using an iPhone allows you to zoom in on a map?",
+        answer: "Reverse pinch",  // Single-answer question
+        options: [
+            "Tap",
+            "Double tap",
+            "Pinch",
+            "Reverse pinch"
+        ]
+    },
+    {
+        numb: 44,
+        question: "You want a device to hold files for several users to access on a network. What type of device do you need?",
+        answer: "Server",  // Single-answer question
+        options: [
+            "File console",
+            "Tablet",
+            "Server",
+            "Workstation"
+        ]
+    },
+    {
+        numb: 45,
+        question: "Rachel is using her iPad to view pictures. She turns the iPad 90 degrees and the image turns as well. Which sensor allowed this to happen?",
+        answer: "Gyroscope",  // Single-answer question
+        options: [
+            "Accelerometer",
+            "Magnetometer",
+            "Turnometer",
+            "Gyroscope"
+        ]
+    },
+    {
+        numb: 46,
+        question: "Which type of IoT device is used to control the temperature in a home?",
+        answer: "Thermostat",  // Single-answer question
+        options: [
+            "Thermostat",
+            "Security system",
+            "Home appliance",
+            "Command center"
+        ]
+    },
+    {
+        numb: 47,
+        question: "Francis is trying to change the settings on his iPhone. He opens the Settings app. In order to see them better, he turns his phone 90 degrees but nothing happens. What is the most likely cause?",
+        answer: "The Settings app does not support rotation",  // Single-answer question
+        options: [
+            "The gyroscope is broken.",
+            "The Settings app does not support rotation.",
+            "He needs to enable app rotation in Settings first.",
+            "He needs to turn off the device and turn it back on to reset the rotation feature."
+        ]
+    },
+    {
+        numb: 48,
+        question: "What is the term used that refers to connecting two Bluetooth devices together for communications?",
+        answer: "Pairing",  // Single-answer question
+        options: [
+            "Synching",
+            "Netting",
+            "Pairing",
+            "Partnering"
+        ]
+    },
+    {
+        numb: 49,
+        question: "Agi has an iPhone with a biometric scanner enabled. What methods can she use to unlock her phone?",
+        answer: "Fingerprint or passcode",  // Single-answer question
+        options: [
+            "Fingerprint only",
+            "Passcode only",
+            "Fingerprint or passcode",
+            "Fingerprint, passcode, or iris scan"
+        ]
+    },
+    {
+        numb: 50,
+        question: "Which of the following is a required hardware device to use augmented reality?",
+        answer: "Smartphone",  // Single-answer question
+        options: [
+            "AR headset",
+            "Earbuds/headphones",
+            "Smartphone",
+            "Display"
+        ]
+    },
+    {
+        numb: 51,
+        question: "Your friend recently got a new Android phone and comes over to your house. What app does your friend use to set up a Wi-Fi connection with your wireless router?",
+        answer: "Settings",  // Single-answer question
+        options: [
+            "Wi-Fi",
+            "Settings",
+            "Networking",
+            "Connections"
+        ]
+    },
+    {
+        numb: 52,
+        question: "Which one of the following devices is likely to have the least amount of storage space?",
+        answer: "Smartphone",  // Single-answer question
+        options: [
+            "Smartphone",
+            "Laptop",
+            "Workstation",
+            "Server"
+        ]
+    },
+    {
+        numb: 53,
+        question: "You are setting up a new Wi-Fi connection on your Android phone. What step do you take after turning on Wi-Fi?",
+        answer: "Locate SSID",  // Single-answer question
+        options: [
+            "Verify wireless capabilities.",
+            "Enter the wireless password.",
+            "Verify the Internet connection.",
+            "Locate SSID."
+        ]
+    },
+    {
+        numb: 54,
+        question: "You want to enable backups of your new iPhone. Which two options do you have? (Choose two.)",
+        answer: ["iCloud", "iTunes"],  // Multi-answer question
+        options: [
+            "iDrive",
+            "iCloud",
+            "iTunes",
+            "iBackup"
+        ]
+    },
+    {
+        numb: 55,
+        question: "A pacemaker is an example of what type of IoT device?",
+        answer: "Medical device",  // Single-answer question
+        options: [
+            "Medical device",
+            "Home appliance",
+            "Security system",
+            "IP camera"
+        ]
+    },
+    {
+        numb: 56,
+        question: "Which of the following accurately describes what Airplane mode does on an iPhone?",
+        answer: "Turns off the cellular connection",  // Single-answer question
+        options: [
+            "Turns off the Wi-Fi connection",
+            "Turns off the Bluetooth connection",
+            "Turns off the cellular connection",
+            "Turns off all wireless connections"
+        ]
+    },
+    {
+        numb: 57,
+        question: "Which IoT device is typically paired with security systems?",
+        answer: "IP camera",  // Single-answer question
+        options: [
+            "Home appliance",
+            "IP camera",
+            "Vehicle",
+            "Thermostat"
+        ]
+    },
+    {
+        numb: 58,
+        question: "You need to find a new productivity app for your Android-based tablet. Where should you look?",
+        answer: "Google Play",  // Single-answer question
+        options: [
+            "iTunes",
+            "Google Drive",
+            "Google Apps",
+            "Google Play"
+        ]
+    },
+    {
+        numb: 59,
+        question: "An Xbox Series X is an example of which type of device?",
+        answer: "Gaming console",  // Single-answer question
+        options: [
+            "Laptop",
+            "Tablet",
+            "Gaming console",
+            "Server"
+        ]
+    },
+    {
+        numb: 60,
+        question: "Rebecca wants to get a copy of the newest game she heard about for her iPad. Where should she go to find and download it?",
+        answer: "Google Play",  // Single-answer question
+        options: [
+            "iTunes",
+            "iApps",
+            "iPlay",
+            "Google Play"
+        ]
+    },
+    {
+        numb: 61,
+        question: "Which of the following is not a function of an operating system?",
+        answer: "Monitor system health",
+        options: [
+            "Interface between the user and the machine",
+            "Coordinate software applications",
+            "Coordinate hardware components",
+            "Monitor system health"
+        ]
+    },
+    {
+        numb: 62,
+        question: "Which of the following desktop operating systems can you freely modify if you choose?",
+        answer: "Linux",
+        options: [
+            "macOS",
+            "iOS",
+            "Android",
+            "Linux"
+        ]
+    },
+    {
+        numb: 63,
+        question: "Peter, a friend of yours, has a piece of software that was written for macOS. Which of the following OSs will that software run on?",
+        answer: "macOS only",
+        options: [
+            "macOS only",
+            "macOS and Linux",
+            "macOS and ChromeOS",
+            "macOS, Linux, and ChromeOS"
+        ]
+    },
+    {
+        numb: 64,
+        question: "Your friend Michael has purchased a Chromebook and wants to know where his files are stored. What do you tell him?",
+        answer: "In the cloud",
+        options: [
+            "On the hard drive",
+            "In the system RAM",
+            "In the cloud",
+            "Chromebooks do not store files"
+        ]
+    },
+    {
+        numb: 65,
+        question: "You just deleted a shortcut to an important work presentation. What happened to the data in the presentation?",
+        answer: "It’s in the Recycle Bin/Trash.",
+        options: [
+            "Nothing.",
+            "The file was removed from the work directory and placed in the Projects directory.",
+            "The file was not moved, but a new pointer record was created associating the file with the Projects directory.",
+            "The file was copied to a new location on the hard drive and was associated with the Projects directory."
+        ]
+    },
+    {
+        numb: 66,
+        question: "Which of the following file systems can you not rename a file when it's open?",
+        answer: "NTFS",
+        options: [
+            "ext3",
+            "ext4",
+            "APFS",
+            "NTFS"
+        ]
+    },
+    {
+        numb: 67,
+        question: "You are going to purchase a new iPhone. Which operating system will be installed on it?",
+        answer: "iOS",
+        options: [
+            "iOS",
+            "OS X",
+            "iPhone OS",
+            "Android"
+        ]
+    },
+    {
+        numb: 68,
+        question: "Fred, a friend of yours, wants to host a website for his new company. Which type of OS should be on the computer hosting the website?",
+        answer: "Server",
+        options: [
+            "Embedded",
+            "Mobile",
+            "Server",
+            "Workstation"
+        ]
+    },
+    {
+        numb: 69,
+        question: "Which of the following is not a feature of a file system?",
+        answer: "Access control",
+        options: [
+            "Permissions",
+            "Encryption",
+            "Journaling",
+            "Access control"
+        ]
+    },
+    {
+        numb: 70,
+        question: "Linux is defined as a ______________, which is also the core of an operating system.",
+        answer: "Kernel",
+        options: [
+            "Distribution",
+            "Version",
+            "Kernel",
+            "Shell"
+        ]
+    },
+    {
+        numb: 71,
+        question: "You need to kill a process in Windows. Which utility should you use?",
+        answer: "Task Manager",
+        options: [
+            "Task Manager",
+            "Process Manager",
+            "File Explorer",
+            "Programs and Features"
+        ]
+    },
+    {
+        numb: 72,
+        question: "You just copied a file from the work directory to the Projects directory on your Windows PC. What happened to the file on the hard drive?",
+        answer: "The file was copied to a new location on the hard drive and was associated with the Projects directory.",
+        options: [
+            "Nothing.",
+            "The file was removed from the work directory and placed in the Projects directory.",
+            "The file was not moved, but a new pointer record was created associating the file with the Projects directory.",
+            "The file was copied to a new location on the hard drive and was associated with the Projects directory."
+        ]
+    },
+    {
+        numb: 73,
+        question: "Your hard drive is running low on space. Which of the following could help alleviate that situation?",
+        answer: "Compression",
+        options: [
+            "Compression",
+            "Encryption",
+            "Attribution",
+            "Journaling"
+        ]
+    },
+    {
+        numb: 74,
+        question: "The combination of Linux-based files that gets released as a product is called what?",
+        answer: "Distribution",
+        options: [
+            "Distribution",
+            "Version",
+            "Kernel",
+            "Source"
+        ]
+    },
+    {
+        numb: 75,
+        question: "Which of the following items does Windows Task Manager allow you to manage? (Choose two.)",
+        answer: ["Drivers", "Services"],
+        options: [
+            "Drivers",
+            "Interfaces",
+            "Processes",
+            "Services"
+        ]
+    },
+    {
+        numb: 76,
+        question: "You need to prepare a brand-new replacement hard drive for storage. What is the first step needed to get it ready?",
+        answer: "Create a partition",
+        options: [
+            "Format the drive",
+            "Install an OS",
+            "Install a file system",
+            "Create a partition"
+        ]
+    },
+    {
+        numb: 77,
+        question: "You need to update a Windows driver for a sound card. Which utility should you use?",
+        answer: "Device Manager",
+        options: [
+            "Device Manager",
+            "Sound Card Manager",
+            "Drivers app",
+            "Control Panel"
+        ]
+    },
+    {
+        numb: 78,
+        question: "Which of the following would not be considered metadata for a spreadsheet file?",
+        answer: "Calculations inside the file",
+        options: [
+            "Read-only attribute",
+            "Calculations inside the file",
+            "Name of the file",
+            "File size"
+        ]
+    },
+    {
+        numb: 79,
+        question: "You want to keep a co-worker, Jerry, from accessing a file. What should you use to do this?",
+        answer: "Permissions",
+        options: [
+            "Permissions",
+            "Read-only",
+            "Archive",
+            "Compression"
+        ]
+    },
+    {
+        numb: 80,
+        question: "You just deleted a shortcut to an important work presentation. What happened to the data in the presentation?",
+        answer: "It’s in the Recycle Bin/Trash.",
+        options: [
+            "Nothing.",
+            "The file was removed from the work directory and placed in the Projects directory.",
+            "The file was not moved, but a new pointer record was created associating the file with the Projects directory.",
+            "The file was copied to a new location on the hard drive and was associated with the Projects directory."
+        ]
+    },
 ];
