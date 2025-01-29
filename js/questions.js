@@ -885,4 +885,224 @@ let questions = [
             "The file was copied to a new location on the hard drive and was associated with the Projects directory."
         ]
     },
+    {
+        numb: 81,
+        question: "A user calls to tell you that every time he browses the Internet, multiple browser windows keep appearing on his screen even though he has not opened them. In this scenario, what should you do to fix the problem?",
+        answer: "Deactivate client-side scripting",
+        options: [
+            "Deactivate client-side scripting",
+            "Clear the cache",
+            "Disable browser extensions",
+            "Configure a pop-up blocker"
+        ]
+    },
+    {
+        numb: 82,
+        question: "Rose opens her software application and gets a message stating that she has only 16 more uses of the product available. Given this scenario, what is her best course of action to use it more than 16 additional times?",
+        answer: "Activate the software",
+        options: [
+            "Activate the software",
+            "Register the software",
+            "Uninstall and reinstall the software",
+            "No longer use the application"
+        ]
+    },
+    {
+        numb: 83,
+        question: "You are visiting a website to order a product, but you keep seeing old information that you know is outdated. Which of the following will most likely fix the problem?",
+        answer: "Clear the cache",
+        options: [
+            "Clear the cache",
+            "Disable browser settings",
+            "Disable cookies",
+            "Restart your computer"
+        ]
+    },
+    {
+        numb: 84,
+        question: "You have just purchased licensed software and want to install it. Which of the following are you required to enter to install this software?",
+        answer: "The product key",
+        options: [
+            "Your name and contact information",
+            "The product key",
+            "The serial number of your processor",
+            "None of the above"
+        ]
+    },
+    {
+        numb: 85,
+        question: "You are setting up a technical support help desk for a new app. What type of software should you get to help the technicians fix problems more effectively?",
+        answer: "Remote support",
+        options: [
+            "Remote support",
+            "Instant messaging",
+            "Document sharing",
+            "Instant diagnosing"
+        ]
+    },
+    {
+        numb: 86,
+        question: "John wants to download a PC-based software package made by Company X. He sees that he can get the software for free from a dozen different websites on the Internet. What advice would you give John?",
+        answer: "Download the software only from the Company X website",
+        options: [
+            "Download the software from any of the sites because it should be the same",
+            "Download the software only from the Company X website",
+            "Disable his pop-up blocker and download from the site promising the fastest download speed",
+            "Look on the Apple Store to find the package and download it"
+        ]
+    },
+    {
+        numb: 87,
+        question: "A user wants to have the same browser color scheme, security settings, and favorite website list available from any computer they log in to. What should be enabled?",
+        answer: "Profile synchronization",
+        options: [
+            "Profile synchronization",
+            "Bookmarks",
+            "Accessibility",
+            "Compatible browser for applications"
+        ]
+    },
+    {
+        numb: 88,
+        question: "Word processing, spreadsheets, and presentation software are examples of what?",
+        answer: "Productivity software",
+        options: [
+            "Productivity software",
+            "Collaboration software",
+            "Utility software",
+            "Operating system add-ins"
+        ]
+    },
+    {
+        numb: 89,
+        question: "Which of the following is a required hardware device to use augmented reality?",
+        answer: "AR headset",
+        options: [
+            "AR headset",
+            "Earbuds/headphones",
+            "Smartphone",
+            "Display"
+        ]
+    },
+    {
+        numb: 90,
+        question: "Your friend recently got a new Android phone and comes over to your house. What app does your friend use to set up a Wi-Fi connection with your wireless router?",
+        answer: "Settings",
+        options: [
+            "Wi-Fi",
+            "Settings",
+            "Networking",
+            "Connections"
+        ]
+    },
+    {
+        numb: 91,
+        question: "Which one of the following devices is likely to have the least amount of storage space?",
+        answer: "Smartphone",
+        options: [
+            "Smartphone",
+            "Laptop",
+            "Workstation",
+            "Server"
+        ]
+    },
+    {
+        numb: 92,
+        question: "You are setting up a new Wi-Fi connection on your Android phone. What step do you take after turning on Wi-Fi?",
+        answer: "Locate SSID",
+        options: [
+            "Verify wireless capabilities",
+            "Enter the wireless password",
+            "Verify the Internet connection",
+            "Locate SSID"
+        ]
+    },
+    {
+        numb: 93,
+        question: "You want to enable backups of your new iPhone. Which two options do you have? (Choose two.)",
+        answer: ["iCloud", "iTunes"],
+        options: [
+            "iDrive",
+            "iCloud",
+            "iTunes",
+            "iBackup"
+        ]
+    },
+    {
+        numb: 94,
+        question: "A pacemaker is an example of what type of IoT device?",
+        answer: "Medical device",
+        options: [
+            "Medical device",
+            "Home appliance",
+            "Security system",
+            "IP camera"
+        ]
+    },
+    {
+        numb: 95,
+        question: "Which of the following accurately describes what Airplane mode does on an iPhone?",
+        answer: "Turns off the cellular connection",
+        options: [
+            "Turns off the Wi-Fi connection",
+            "Turns off the Bluetooth connection",
+            "Turns off the cellular connection",
+            "Turns off all wireless connections"
+        ]
+    },
+    {
+        numb: 96,
+        question: "Which IoT device is typically paired with security systems?",
+        answer: "IP camera",
+        options: [
+            "Home appliance",
+            "IP camera",
+            "Vehicle",
+            "Thermostat"
+        ]
+    },
+    {
+        numb: 97,
+        question: "You need to find a new productivity app for your Android-based tablet. Where should you look?",
+        answer: "Google Play",
+        options: [
+            "iTunes",
+            "Google Drive",
+            "Google Apps",
+            "Google Play"
+        ]
+    },
+    {
+        numb: 98,
+        question: "An Xbox Series X is an example of which type of device?",
+        answer: "Gaming console",
+        options: [
+            "Laptop",
+            "Tablet",
+            "Gaming console",
+            "Server"
+        ]
+    },
+    {
+        numb: 99,
+        question: "Rebecca wants to get a copy of the newest game she heard about for her iPad. Where should she go to find and download it?",
+        answer: "iTunes",
+        options: [
+            "iTunes",
+            "iApps",
+            "iPlay",
+            "Google Play"
+        ]
+    },
+    {
+        numb: 100,
+        question: "A user calls you on the phone while he is trying to install software. It is telling him that he needs a product key. Where should you tell him to look for it? (Choose two.)",
+        answer: ["On the package the installation media came in", "In an email from the manufacturer"],
+        options: [
+            "On the package the installation media came in",
+            "In an email from the manufacturer",
+            "On the screen in the Options menu",
+            "In Windows Update"
+        ]
+    }
 ];
